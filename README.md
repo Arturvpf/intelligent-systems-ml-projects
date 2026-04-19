@@ -4,6 +4,22 @@ Academic projects developed for the **Intelligent Systems** course — CIn/UFPE
 
 ---
 
+## Problem Statement
+
+On April 15, 1912, the RMS Titanic sank after colliding with an iceberg, killing 1,502 of the 2,224 passengers and crew aboard. Survival was far from random — factors such as passenger class, sex, age, and family size played a measurable role in who made it to a lifeboat.
+
+The central question driving these projects is:
+
+> **Can we reliably predict whether a passenger survived the Titanic disaster based solely on their demographic and travel data?**
+
+Beyond prediction accuracy, each mini-project investigates a different facet of this problem:
+
+- **Decision Tree** — which features and decision rules most clearly separate survivors from non-survivors?
+- **MLP** — can a neural network learn non-linear survival patterns that simpler models miss?
+- **Unsupervised Clustering** — without using survival labels, do natural passenger groupings emerge from the data, and do those groups correlate with survival rates?
+
+---
+
 ## Team
 
 | Name | Email |

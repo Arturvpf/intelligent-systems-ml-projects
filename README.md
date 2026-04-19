@@ -25,7 +25,7 @@ Beyond prediction accuracy, each mini-project investigates a different facet of 
 | Name | Email |
 |------|-------|
 | Andreywid Yago Lima de Souza | ayls@cin.ufpe.br |
-| Artur Vinicius Pereira Fernandes | avpf@cin.ufpe.br |
+| Artur Vinicius Pereira Fernandes | arturvpf3@gmail.com |
 | Felipe Mateus Falcao Barreto | fmfb@cin.ufpe.br |
 | Joao Pedro Mafaldo de Paula | jpmp@cin.ufpe.br |
 | Matheus Ayres dos Santos | mas14@cin.ufpe.br |
